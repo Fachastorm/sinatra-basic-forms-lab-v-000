@@ -14,3 +14,4 @@ end
     @puppy = Puppy.new(params[:name], params[:breed], params[:age])
     ern :display_puppy
 end
+end
